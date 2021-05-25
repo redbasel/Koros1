@@ -219,3 +219,12 @@ a:linkggg {
   background-color: transparent;
   text-decoration: none;
 }
+
+.comingsoonimg {
+  max-width: 50%;
+  max-height: 50%;
+  display: block;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
