@@ -153,11 +153,19 @@ margin: 0 auto;
   -webkit-backface-visibility: hidden;
   
   border:solid 1px #000;
+
+  text-decoration: none;
 }
 
 .block:hover {
   color:white;
 
+}
+
+.yellow a:link {
+  color:black;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 .heading {
@@ -174,6 +182,12 @@ margin: 0 auto;
   position:relative;
 font-size: 4.2em;
 padding-top: 40px;
+}
+
+.greenboxlink a:link {
+  color:black;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 .green {
@@ -198,4 +212,10 @@ background:#FFAA00;
 
 .blue {
 color: blue;
+}
+
+a:linkggg {
+  color:none;
+  background-color: transparent;
+  text-decoration: none;
 }

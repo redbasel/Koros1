@@ -1,0 +1,1 @@
+for mobile view, change sidenav to maybe only icons and thinner. or remove sidenav compeltely. make dashboard cickable. and under dashboard make Client 1 name avaialable so can access account related stuff.
