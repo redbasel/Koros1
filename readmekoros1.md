@@ -11,6 +11,7 @@ KOROS1 is not intended to be a ocmpelte funciton of the KOROS platform. Thsi rea
 KOROS1 focus is on creating the dashboard, navigation and first function which is the evaluation form sent by client to the coach.
 
 
+*FEATURES*
 *** The different parts explained and their current progress in KOROS1***
 
 
@@ -37,3 +38,32 @@ In future updates this is where the client can download and access their customi
 
 ****PROGRESS****
 This is where the informaiton form the followups will be presented in a neatly way for the clients to be able ot track their progress. When visited will be greeted by a coming soon page. 
+
+*TESTING*
+browsers tested as of (DATE):
+
+Checked that all buttons are functionicng and connected properly. 
+
+3rd party VALIDATOR testing.
+
+HTML
+
+CSS
+
+
+         
+
+*Unfixed Bugs*
+
+
+
+*Deployment*
+
+
+*CREDITS*
+
+
+**CONTENT**
+
+
+**MEDIA**
