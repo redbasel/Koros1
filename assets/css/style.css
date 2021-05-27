@@ -31,6 +31,8 @@ add when hovering that class num icnreases so logo will be bigger
 #logotext {
     color: #377E7A;
     background-color: white; /* kolla denna jan */
+    text-decoration: none;
+
 }
 
 .header {
