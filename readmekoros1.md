@@ -13,20 +13,27 @@ KOROS1 focus is on creating the dashboard, navigation and first function which i
 
 *** The different parts explained and their current progress in KOROS1***
 
+
+
 ****DASHBOARD****
+THe user is first presented witht the dashboard on the startpage. 
+The dashboard presents all the functions for the user in a userfriendly and effective way. It is achieved by utilizig a box style with clear headings and icons as well as distinctive colors. This design is mobile friendly as well. 
 
 
 ****SIDENAVIGATION****
-
+The sidenavigation allows users to quickly change functions while using one function already without having to go back to the startpage. Thisi is greatly beneficial for the desktop users. For the mobile users it might obscure the view and thus will have to be adapted. 
 
 
 ****INFORMATION****
+The information page keeps track on the progress of the different sections of the platform .
 
 
 ****FOLLOWUP****
+The follow up page has a form where the client can fill in information for their coach regarding their weekly progress. AS of now it is connected to codeinstitute server just to prove it is working correctly. 
 
 
 ****PLANS****
-
+In future updates this is where the client can download and access their customized plans. AS of now when visited the client will be greeted by a coming soon page
 
 ****PROGRESS****
+This is where the informaiton form the followups will be presented in a neatly way for the clients to be able ot track their progress. When visited will be greeted by a coming soon page. 
