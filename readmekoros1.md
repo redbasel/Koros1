@@ -1,4 +1,9 @@
 for mobile view, change sidenav to maybe only icons and thinner. or remove sidenav compeltely. make dashboard cickable. and under dashboard make Client 1 name avaialable so can access account related stuff.
+guide
+
+https://github.com/Code-Institute-Solutions/readme-template
+
+
 
 * READ ME FOR KOROS1 *
 
