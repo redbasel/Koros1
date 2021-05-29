@@ -46,6 +46,7 @@ This is where the informaiton form the followups will be presented in a neatly w
 
 *TESTING*
 browsers tested as of (DATE):
+Mozilla firefox Desktop
 
 Checked that all buttons are functionicng and connected properly. 
 
