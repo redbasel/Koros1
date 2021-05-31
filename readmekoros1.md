@@ -3,7 +3,12 @@ guide
 
 https://github.com/Code-Institute-Solutions/readme-template
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+
+add user stories. one for mobile and one for desktop. 
+
+more bullet points!!!
 
 * READ ME FOR KOROS1 *
 

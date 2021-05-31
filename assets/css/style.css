@@ -19,6 +19,11 @@ add when hovering that class num icnreases so logo will be bigger
 
 */
 
+.signup-form {
+  text-align: center;
+  padding-right: 15%;
+}
+
 #bannerimg {
   width: 100%;
   background-image: url(..assets/images/header_P1.png);
@@ -41,6 +46,24 @@ add when hovering that class num icnreases so logo will be bigger
     font-size: large;
     text-align: center;
 }
+/* The top menu */
+.top-nav {
+  color:#377E7A;
+  overflow: hidden;
+  text-align: center;
+
+}
+.top-nav a:hover {
+  text-decoration: none;
+  color:#72C0BD;
+}
+
+.top-nav a.active {
+  color:#72C0BD;
+  text-decoration: none;
+}
+
+
 
  /* The sidebar menu */
  .sidenav {
@@ -81,10 +104,14 @@ add when hovering that class num icnreases so logo will be bigger
   }
   
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-  @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
+  @media screen and (max-width: 500px) {
+    /*  .sidenav {padding-top: 15px;} */
+    .sidenav {
+      display:none;
+    }
     .sidenav a {font-size: 18px;}
   } 
+  
 
 
 

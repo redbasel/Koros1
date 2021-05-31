@@ -5,17 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Document</title>
+    <title>Follow up</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
 </head>
 <body>
     <div class="header">
 
       <header><h1 id="logotext"><a href="boxandanchor.html" id="logotext">DASHBOARD <i class="fas fa-reply"></i></a> </h1></header>
+            <!-- Top navigaton bar for mobile view, only diplaying active and relevant functions for quick access. -->
+            <div class="top-nav">
+              <a class="active" href="followup copy.html">Form</a>
+              <a href="information.html">Information</a>
+            </div>
     <h1>FOLLOW UP</h1>
 
 
 
     </div>
+    <!-- sidenavigation -->
     <div class="sidenav">
         <a href="#">CLIENT  <i class="fas fa-user-astronaut"></i></a> <br><br>
           <a href="boxandanchor.html">Start</a> <br>
@@ -25,9 +35,11 @@
           <a href="comingsoon.html">Progress</a> <br>
         </div>
         
-
+<!-- Form for the clients to fill in. Clients during this version are redirected to the coeinsititute formdump
+this is to show that the form is working and capturing the information -->
       <div class="main">
-    <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+    <form method="POST"  action="https://formdump.codeinstitute.net/" class="signup-form">
+      <!-- Contact info-->
         <h2>Let's Evaluate the week<i class="fas fa-heartbeat"></i></h2>
         <label for="fname">First Name</label>
         <input id="fname" name="first_name" type="text" required class="text-input">
@@ -45,6 +57,7 @@
                min="1" max="16">
 
         <h3>MEASUREMENTS</h3>
+        <!-- quantative feedback-->
 
         <label for="arm">Arm</label>
 
@@ -69,6 +82,7 @@
                             min="0" max="150">
         
         <h3>SATISFACTION</h3>
+        <!-- qualitative feedback -->
         <H4>ENERGY</H4>
         <label for="problematic1">Problematic</label>
         <input type="radio" id="problematic1" name="energy" value="problematic" required>
